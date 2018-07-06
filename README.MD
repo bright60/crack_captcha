@@ -3,6 +3,7 @@
 python==python3.5.2
 * first please make sure you already install lib as the requirements list.
 * just run the `train.py` script ,i will train and save the model 
+* pip3 install matplotlib (to resolve issue: ImportError: No module named 'matplotlib')
 
 # Architecture
 
